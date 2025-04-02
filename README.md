@@ -1,16 +1,19 @@
-Overview
+##📝 Overview
+
 This project is designed to facilitate automated email replies with the help of AI, eliminating the need to manually write repetitive emails. The system leverages Gemini AI for querying and retrieving responses.
 
-Features
-AI-powered email response generation.
+##🚀 Features
 
-Backend built using Java and Spring Boot.
+✅ AI-powered email response generation.
 
-Frontend developed with React.js.
+🏗 Backend: Java & Spring Boot.
 
-Chrome Extension integration that adds an AI Reply button beside the default reply button in email clients.
+🎨 Frontend: React.js.
 
-Tech Stack
+🌐 Chrome Extension adds an AI Reply button beside the default reply button in email clients.
+
+##🛠 Tech Stack
+
 Frontend: React.js
 
 Backend: Java, Spring Boot
